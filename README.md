@@ -7,7 +7,8 @@ Welcome to my Business Insights 360 project. This repository features a comprehe
 ## Table of Contents
 
 - [Introduction](#introduction)  
-- [Project Description](#project-description)  
+- [Project Description](#project-description)
+- [Features](#Features)
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [License](#license)
@@ -29,7 +30,7 @@ Welcome to my Business Insights 360 project. This repository features a comprehe
 This repository contains a multi‑departmental analytics suite that provides a holistic view of enterprise performance. The dashboards and models evaluate critical KPIs including Net Sales (NS), Gross Margin (GM%), and Net Profit (NP%) to improve forecast accuracy, assess market share, and support strategic growth.
 
 
-### Key Features
+## Key Features
 -*Multi-Dimensional Analysis*
 -*Advanced Performance Metrics*
 -*Global Market Insights*

@@ -8,7 +8,7 @@ Welcome to my Business Insights 360 project. This repository features a comprehe
 
 - [Introduction](#introduction)  
 - [Project Description](#project-description)
-- [Features](#Features)  
+- [Key Features](#Key-Features)  
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [License](#license)

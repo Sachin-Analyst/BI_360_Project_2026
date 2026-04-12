@@ -8,7 +8,7 @@ Welcome to my Business Insights 360 project. This repository features a comprehe
 
 - [Introduction](#introduction)  
 - [Project Description](#project-description)
-- [Features](#Features)
+- [Features](#Features)  
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [License](#license)
@@ -31,10 +31,10 @@ This repository contains a multi‑departmental analytics suite that provides a 
 
 
 ## Key Features
--*Multi-Dimensional Analysis*
--*Advanced Performance Metrics*
--*Global Market Insights*
--*Operational Optimization*
+- *Multi-Dimensional Analysis*
+- *Advanced Performance Metrics*
+- *Global Market Insights*
+- *Operational Optimization*
 
 
 ## Installation

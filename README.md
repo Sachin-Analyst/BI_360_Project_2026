@@ -11,7 +11,8 @@ Welcome to my Business Insights 360 project. This repository features a comprehe
 - [Folder Structure](#Folder-Structure)
 - [Key Features](#Key-Features)  
 - [Installation](#installation)  
-- [Usage](#usage)  
+- [Usage](#usage)
+- [Visual Insights](#Visual-Insights) 
 - [License](#license)
 
 
@@ -93,6 +94,7 @@ To explore or modify this Excel project:
 Due to the large file size of the Power BI (.pbix) dashboard and the complex nature of the Raw SQL datasets, these source files are not included in the main branch to optimize repository performance
 
 ---- 
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details

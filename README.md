@@ -95,6 +95,13 @@ Due to the large file size of the Power BI (.pbix) dashboard and the complex nat
 
 ---- 
 
+## Visual Insights
+
+Video Presentation - https://lnkd.in/gy6i3gBv
+
+Live Dashboard - https://lnkd.in/gsdTSE8m
+
+----
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details

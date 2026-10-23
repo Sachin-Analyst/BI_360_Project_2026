@@ -103,14 +103,19 @@ Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiN2I5Yzg2ZGItOTg2ZS00MGVm
 
 ----
 
-### Note: The live dashboard was updated on October 23, 2026, after receiving an extended dataset. The version shown in the video covered data only until December 2021; it now covers data through April 2026.
-
-----
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
 
-This Repo last updated on October 23,2026
+## Last Updated
 
+Last updated on October 23, 2026.
+
+The version shown in the video presentation covered data until December 2021; it now covers data through April 2026.
+
+What changed in this update:
+- Added the extended datasets for gdb041 and gdb056 (SQL files, zipped)
+- Added the updated market share, operating expenses and targets files (Excel)
+- Added the dashboard document (PDF) refreshed with the new dataset, with the Year 2025 filter applied
+- Added the data model view after loading the new dataset
 
 

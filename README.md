@@ -14,6 +14,7 @@ Welcome to my Business Insights 360 project. This repository features a comprehe
 - [Usage](#usage)
 - [Visual Insights](#Visual-Insights) 
 - [License](#license)
+- [Last Updated](#Last-Updated)
 
 
 ## Introduction
@@ -105,6 +106,8 @@ Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiN2I5Yzg2ZGItOTg2ZS00MGVm
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
+
+----
 
 ## Last Updated
 

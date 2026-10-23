@@ -103,7 +103,7 @@ Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiN2I5Yzg2ZGItOTg2ZS00MGVm
 
 ----
 
-## Note: The live dashboard was updated on October 23, 2026, after receiving an extended dataset. The version shown in the video covered data only until December 2021; it now covers data through April 2026.
+### Note: The live dashboard was updated on October 23, 2026, after receiving an extended dataset. The version shown in the video covered data only until December 2021; it now covers data through April 2026.
 
 ----
 
